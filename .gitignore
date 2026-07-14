@@ -36,3 +36,4 @@ data/raw/
 
 # PyMC / ArviZ cache
 *.nc
+.venv-wsl/
