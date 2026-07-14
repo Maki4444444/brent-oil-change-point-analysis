@@ -34,6 +34,11 @@ data/raw/
 # Logs
 *.log
 
+backend/data/
+
 # PyMC / ArviZ cache
 *.nc
 .venv-wsl/
+node_modules/
+dist/
+.env
